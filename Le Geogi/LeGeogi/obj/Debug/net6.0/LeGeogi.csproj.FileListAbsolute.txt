@@ -1,0 +1,15 @@
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\bin\Debug\net6.0\LeGeogi.exe
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\bin\Debug\net6.0\LeGeogi.deps.json
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\bin\Debug\net6.0\LeGeogi.runtimeconfig.json
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\bin\Debug\net6.0\LeGeogi.dll
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\bin\Debug\net6.0\ref\LeGeogi.dll
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\bin\Debug\net6.0\LeGeogi.pdb
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\obj\Debug\net6.0\LeGeogi.csproj.AssemblyReference.cache
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\obj\Debug\net6.0\LeGeogi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\obj\Debug\net6.0\LeGeogi.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\obj\Debug\net6.0\LeGeogi.AssemblyInfo.cs
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\obj\Debug\net6.0\LeGeogi.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\obj\Debug\net6.0\LeGeogi.dll
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\obj\Debug\net6.0\ref\LeGeogi.dll
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\obj\Debug\net6.0\LeGeogi.pdb
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\App simples de cadastro\Le Geogi\LeGeogi\obj\Debug\net6.0\LeGeogi.genruntimeconfig.cache
